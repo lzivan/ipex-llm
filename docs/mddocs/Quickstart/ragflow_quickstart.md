@@ -5,15 +5,6 @@
 
 *See the demo of ragflow running Qwen2:7B on Intel Arc A770 below.*
 
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-    var links = document.querySelectorAll('a[target="_blank"]');
-    for (var i = 0; i < links.length; i++) {
-        links[i].setAttribute("rel", "noopener noreferrer");
-        links[i].setAttribute("target", "_blank");
-    }
-});
-</script>
 <a href="https://llm-assets.readthedocs.io/en/latest/_images/ragflow-record.mp4"><img src="https://llm-assets.readthedocs.io/en/latest/_images/ragflow-record.png" alt="Demo video"></a>
 
 ## Quickstart
